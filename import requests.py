@@ -4,7 +4,7 @@ import re
 import json
 import math
 
-API_TOKEN = 
+
 USERNAME = 'anadeondarza'
 BASE_URL = 'https://api.github.com/'
 KEY = 'repos/'
